@@ -15,7 +15,7 @@ To set up and run the website, follow these steps:
 
 For any inquiries, please contact us at:
 
-- Email: smartmediaplayer6@gmail.com
+- Email: ticktech01@outlook.com
 ## License
 
 This project is licensed under the MIT License.
